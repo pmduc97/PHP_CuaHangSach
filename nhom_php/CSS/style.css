@@ -1,0 +1,221 @@
+.container{
+	
+}
+a{
+	color: black;
+}
+li{
+	list-style: none;
+}
+.header{
+	height: 130px;
+}
+img{
+	margin: 15px 0;
+
+}
+b{
+	float:right;
+	margin: 10px 0;
+}
+span {
+	margin-top: 20px;
+	float: right;
+
+	
+}
+.c{
+float: right;
+margin: 10px;
+height: 50px;
+}
+#a{
+	height: 40px;
+	width: 400px;
+}
+#b{
+	height: 40px;
+	background: #0BB1B7;
+}
+.menu {
+  width: 100%;
+  height: 50px;
+  overflow: hidden;
+}
+
+.menu a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 5px 10px;
+  margin: 6px 10px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.menu a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.menu a.active {
+  background-color: #0BB1B7;
+  color: white;
+}
+#myCarousel1 {
+	height: 300px;
+	width: 100%;
+	margin: 20px 0;
+}
+
+ #d {
+ 	width:100%;
+ 	height: 300px;
+ }
+ .sidebar {
+ 	float: left;
+ 	width: 20%;
+ 	
+ }
+ ul{
+ 	padding:0;
+ 	margin: 15px 0;
+ }
+ ul li{
+ 	font-size: 20px;
+        padding-left: 10px;
+        margin: 10px 0;
+        
+
+ 	
+ }
+ #e{
+ 	background: #0BB1B7;
+ 	text-align: center;
+ }
+ .main{
+ 	float: right;
+ 	width: 78%;
+ 	
+ }
+ p {
+ 	color: red;
+ 	font-size: 25px;
+ 	margin-left: 25px;
+
+
+ }
+ .column {
+    float: right;
+    width: 25%;
+    margin: 25px 25px 0 50px;
+    height: 330px; 
+    border-radius: 10px;
+    background: #E3F0F1;
+    position: relative;
+}
+.column img{
+	width: 150px;
+	height: 150px;
+	margin: 30px 0;
+	
+}
+.column p{
+	font-size: 16px;
+	color: black;
+
+}
+.column b{
+	text-align: center;
+}
+.column img:hover{
+	transform:scale(1.3);
+}
+#buy{
+	width: 70px;
+	height: 30px;
+}
+.footer1{
+	background: #333;
+        height: 50px;
+        font-size: 20px;
+        margin: 20px;
+        padding-top: 12px;
+
+}
+
+.footer {
+  position: absolute;
+  right: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #333;
+  text-align: center;
+  margin: 10px 20px;
+}
+
+.login input{
+	height: 50px;
+	width: 400px;
+}
+.login button{
+	background: #0BB1B7;
+}
+.dk input{
+	width: 300px;
+}
+.dk button{
+	background: #0BB1B7;
+}
+h4{
+	color: white;
+}
+#f{
+	width: 30px;
+	background: white;
+}
+.count{
+	float: right;
+}
+.count button{
+	background: #0BB1B7;
+}
+
+
+.tr-view{
+	width: 100%;
+	height: 45%; 
+        
+}
+.td-view{
+	padding: 10px;
+	width: 30%;
+	height: 90%; 
+	float: left;
+	text-align: center;
+        
+        border: 1px solid black;
+}
+.td-img{
+	width: 150px;
+	height: 130px;
+	border-radius: 5px;
+}
+.td-masach{
+	font-weight: bold;
+	text-transform: uppercase;
+	padding: 5px 0 0 0;
+}
+
+.cart-count{
+    color: #4a4a4a;
+    background: #fdd835;
+    height: 20px;
+    border-radius: 2px;
+    display: inline-block;
+    text-align: center;
+    line-height: 20px;
+    margin-left: 3px;
+    font-size: 12px;
+    padding: 0 6px;
+}
